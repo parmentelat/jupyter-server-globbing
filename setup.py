@@ -1,7 +1,10 @@
 from setuptools import setup
 
+from globbing import __version__
+
 setup(
     name="globbing",
+    version=__version__,
     # ...
     include_package_data=True,
     data_files=[
