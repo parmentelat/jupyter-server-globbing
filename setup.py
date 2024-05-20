@@ -5,7 +5,7 @@ from setuptools import setup
 from globbing import __version__
 
 setup(
-    name="globbing",
+    name="jupyter-server-globbing",
     version=__version__,
     # ...
     include_package_data=True,
