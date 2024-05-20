@@ -26,3 +26,4 @@ the result is a list of objects with the following structure:
     "type": "file" // or "directory"
   }
 ```
+# jupyter-server-globbing
